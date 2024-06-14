@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "img": "/images/bike.png",
+      "title": " 800RR 바이크",
+      "description": "800RR",
+      "price": "300만원",
+      "choice": true,
+      "sale": true,
+      "new": true,
+      "delivery": false,
+      "size": ["big"]
+    },
+    {
+      "id": 1,
+      "img": "/images/bike2.png",
+      "title": "스즈키 바이크",
+      "description": "스즈키",
+      "price": "280만원",
+      "choice": true,
+      "sale": true,
+      "new": true,
+      "delivery": false,
+      "size": ["big"]
+    },
+    {
+      "id": 2,
+      "img": "/images/bike3.png",
+      "title": "할리데이비스",
+      "description": "할리데이비스",
+      "price": "360만원",
+      "choice": true,
+      "sale": true,
+      "new": true,
+      "delivery": false,
+      "size": ["big"]
+    },
+    {
+      "id": 3,
+      "img": "/images/bike4.png",
+      "title": "할리데이비스",
+      "description": "할리데이비스",
+      "price": "800만원",
+      "choice": true,
+      "sale": false,
+      "new": true,
+      "delivery": false,
+      "size": ["big"]
+    },
+    {
+      "id": 4,
+      "img": "/images/bike5.png",
+      "title": "가와사키 바이크",
+      "description": "가와사키",
+      "price": "420만원",
+      "choice": true,
+      "sale": true,
+      "new": true,
+      "delivery": false,
+      "size": ["big"]
+    },
+    {
+      "id": 5,
+      "img": "/images/bike6.png",
+      "title": "BMW 바이크",
+      "description": "BMW",
+      "price": "440만원",
+      "choice": true,
+      "sale": true,
+      "new": true,
+      "delivery": false,
+      "size": ["big"]
+    },
+    {
+      "id": 6,
+      "img": "/images/bike7.png",
+      "title": "스즈키 바이크",
+      "description": "스즈키",
+      "price": "240만원",
+      "choice": true,
+      "sale": true,
+      "new": true,
+      "delivery": false,
+      "size": ["big"]
+    },
+    {
+      "id": 7,
+      "img": "/images/bike8.png",
+      "title": "두가티 바이크",
+      "description": "두가티",
+      "price": "4890만원",
+      "choice": true,
+      "sale": true,
+      "new": true,
+      "delivery": false,
+      "size": ["big"]
+    },
+    {
+      "id": 8,
+      "img": "/images/bike9.png",
+      "title": "베스파",
+      "description": "베스파",
+      "price": "350만원",
+      "choice": true,
+      "sale": true,
+      "new": false,
+      "delivery": true,
+      "size": ["big"]
+    },
+    {
+      "id": 9,
+      "img": "/images/bike10.png",
+      "title": "두가티 바이크",
+      "description": "두가티",
+      "price": "3400만원",
+      "choice": true,
+      "sale": true,
+      "new": true,
+      "delivery": true,
+      "size": ["big"]
+    }
+  ]
+}
